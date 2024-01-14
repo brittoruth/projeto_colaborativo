@@ -1,1 +1,2 @@
 Primeira linha do projeto, no repositorio local(escrito pelo usuário Ruth)
+Segunda linha do projeto após criação do repositório remoto github.
